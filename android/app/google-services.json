@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "907646767317",
+    "firebase_url": "https://reseller-8c019.firebaseio.com",
+    "project_id": "reseller-8c019",
+    "storage_bucket": "reseller-8c019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907646767317:android:31844a00d707757f2b925c",
+        "android_client_info": {
+          "package_name": "app.orangekraft.reseller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907646767317-gas2rekfmdel82lkq6vj0d4f4gees0jn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJelQ6ogDJaccOr6I-HlJDDbXjCfkbwxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907646767317-gas2rekfmdel82lkq6vj0d4f4gees0jn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
